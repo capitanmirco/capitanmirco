@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=capitanmirco" alt="capitanmirco" /></a> </p>
 
-- 🔭 I’m currently working on **PO project(Prize Optimization)**
+- 🔭 I’m currently working on **SGP**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Angular advanced **
 
 - 👨‍💻 All of my projects are available at [https://github.com/capitanmirco](https://github.com/capitanmirco)
 
