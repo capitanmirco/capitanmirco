@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirco Mennonna</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate software developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capitanmirco&label=Profile%20views&color=0e75b6&style=flat" alt="capitanmirco" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **SGP**
 
-- 🌱 I’m currently learning **Angular advanced **
+- 🌱 I’m currently learning **Ai development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/capitanmirco](https://github.com/capitanmirco)
 
-- 💬 Ask me about **Java and Angular**
+- 💬 Ask me about **AI and Angular**
 
 - 📫 How to reach me **mirco.mennonna95@gmail.com**
 
